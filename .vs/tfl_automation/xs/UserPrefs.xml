@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{5CBDEFD9-FA36-4A29-8BCC-E982CBDB73F2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hooks/Hook.cs">
+    <Files>
+      <File FileName="Hooks/Hook.cs" Line="65" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tfl_automation" expanded="True">
+            <Node name="tfl_automation" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Planyourjourney.feature.cs" selected="True" />
+              </Node>
+              <Node name="Hooks" expanded="True" />
+              <Node name="Reports" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="tfl_automation" expanded="True">
+            <Node name="tfl_automation" expanded="True">
+              <Node name="tfl_automation.Features" expanded="True">
+                <Node name="PlanYourJourneyInTFLFeature" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tfl__automation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
